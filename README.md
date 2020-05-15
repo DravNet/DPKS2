@@ -3,8 +3,8 @@
 
 Options:
 
---help      -h      no_argument                        
---force     -v      no_argument                         
---list      -l      optional_argument           
---kill      -k      required_argument        
---value     -v      required_argument                       
+--help      -h      no_arguments                        
+--force     -v      no_arguments                       
+--list      -l      optional_arguments           
+--kill      -k      required_arguments        
+--value     -v      required_arguments                      
